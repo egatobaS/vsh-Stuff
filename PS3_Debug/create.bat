@@ -1,0 +1,1 @@
+"%~dp0\upload_file.exe" "192.168.137.42:21/dev_hdd0/tmp/sys_audio.sprx" "%~dp0\sys_audio.sprx"
